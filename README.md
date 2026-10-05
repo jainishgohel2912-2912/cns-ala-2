@@ -1,1 +1,1 @@
-[# cns-ala-2](https://stunning-alfajores-0272cd.netlify.app/)
+https://jainish-cns-ala-2.netlify.app/
